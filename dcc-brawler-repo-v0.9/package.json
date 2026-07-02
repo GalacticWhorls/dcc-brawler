@@ -1,0 +1,9 @@
+{
+  "name": "dcc-brawler",
+  "version": "0.9.0",
+  "private": true,
+  "description": "Dungeon Crawler Brawler — a web-native arcade beat-'em-up (Floor 1 vertical slice).",
+  "scripts": {
+    "test": "node test/smoke.js"
+  }
+}
